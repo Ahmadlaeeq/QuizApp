@@ -38,7 +38,7 @@ let questions = [
           {ans:"Hyper Text Markup Language",istrue:true},
           {ans:"Hyper Text Mark Language",istrue:false},
           {ans:"Hyper Text Makeup Language",istrue:false},
-          {ans:"Hyper Text Market Language",istrue:true},
+          {ans:"Hyper Text Market Language",istrue:false},
       ]
       },
     ]

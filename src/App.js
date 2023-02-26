@@ -36,7 +36,7 @@ function App() {
         {showResult ? (<ResultSheet score={score} correctAns={correctAns} handleQuit={handleQuit} />) : (<>
           <div className='name'>
             <h1 className='title'>Easy Quiz App</h1>
-            <h2>Question {currentQuestion + 1} of {questions.length}</h2>
+            <h2>Question{currentQuestion + 1} of {questions.length}</h2>
             <h3>Score:{score}</h3>
           </div>
           <div className='queblock shadow-lg p-3 mb-5 bg-body-tertiary rounded'>
